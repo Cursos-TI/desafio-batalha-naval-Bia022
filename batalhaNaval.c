@@ -3,11 +3,6 @@
 
 /*
  * Batalha Naval - Desafios Novato / Aventureiro / Mestre
- * Projeto educacional em C que demonstra o uso de vetores e matrizes
- * para representar um tabuleiro 10x10, posicionar navios (horizontais,
- * verticais e diagonais) e sobrepor áreas de efeito de habilidades
- * (cone, cruz e octaedro) usando matrizes de habilidade.
- *
  * Observações:
  * - Valores no tabuleiro:
  *      0 -> água
